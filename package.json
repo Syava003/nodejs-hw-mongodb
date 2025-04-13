@@ -5,11 +5,12 @@
     "main": "index.js",
     "scripts": {
       "dev": "nodemon src/index.js",
+      "start": "node src/index.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/oykss/nodejs-hw-mongodb.git"
+      "url": "git+https://github.com/Syava003/nodejs-hw-mongodb"
     },
     "keywords": [],
     "author": "Pavlo-Chernicenko <pwned7067@gmail.com>",
